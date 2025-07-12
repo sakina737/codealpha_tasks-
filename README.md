@@ -1,2 +1,2 @@
 # codealpha_tasks-
-Gallery image website
+Gallery image website 
